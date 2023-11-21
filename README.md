@@ -2,8 +2,6 @@
 
 A student in love with Industrial Engineering. I like automation systems and time series analysis📈. I love working on Excel📊.
 
-
-- 🌱 I’m currently pursuing **Machine learning**.
 - 🔭 I’m currently working on **Time Series Analysis with Python**
 - 🌱 I’m currently learning **Python**, *SPSS*, *Arena Simulation*
 
